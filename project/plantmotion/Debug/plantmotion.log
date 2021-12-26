@@ -1,0 +1,8 @@
+﻿  plantmotionView.cpp
+c:\users\new\source\repos\plantmotion - copy - copy (2)\plantmotion\plantmotionview.cpp(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\new\source\repos\plantmotion - copy - copy (2)\plantmotion\plantmotionview.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\new\source\repos\plantmotion - copy - copy (2)\plantmotion\plantmotionview.cpp(187): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\new\source\repos\plantmotion - copy - copy (2)\plantmotion\plantmotionview.cpp(188): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\new\source\repos\plantmotion - copy - copy (2)\plantmotion\plantmotionview.cpp(190): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\new\source\repos\plantmotion - copy - copy (2)\plantmotion\plantmotionview.cpp(191): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  plantmotion.vcxproj -> C:\Users\new\source\repos\plantmotion - Copy - Copy (2)\Debug\plantmotion.exe
